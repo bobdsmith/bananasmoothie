@@ -1,0 +1,1 @@
+This assignment inspired by and partially borrowed from replit.com [Web Design Curriculum plan](https://docs.google.com/document/d/1XTqMXJw_42MuUsxHiWUSvcvMbI6TCa1lp-q0toNyOM8/edit#), which was in turn inspired by [Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/recipe), from which the image of bananas was taken.

@@ -1,0 +1,41 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.banana {
+  width: 50%;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+}
+
+ol {
+	list-style-type: none;
+	counter-reset: li;
+}
+.olli {
+	font-size: 2rem;
+}
+
+.olli:before {
+  counter-increment: li;
+  content: counter(li);
+	color: red;
+	margin-right: 0.25em;
+}
+
+.ulli {
+  list-style-type:none;
+  font-size: 2rem;
+}
+
